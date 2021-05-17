@@ -1,5 +1,3 @@
 __pycache__
 task_manager/main/__pycache__
 venv
-.flaskenv
-task_manager/__init__.py
